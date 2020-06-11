@@ -1,0 +1,9 @@
+label{
+	font-weight: bold;
+}
+
+.box{
+	padding: 20px;
+}
+
+.ico{padding: 5px; color: #000; text-decoration: none;cursor: pointer;}
